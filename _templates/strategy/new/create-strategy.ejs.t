@@ -4,6 +4,7 @@ unless_exists: true
 ---
 module.exports = {
   apply: (num1, num2) => {
-    throw new Error(`This method hasn't been initialized`)
+    // TODO: implement this method
+    throw new Error(`This method hasn't been implemented`)
   }
 }

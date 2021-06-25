@@ -1,6 +1,6 @@
 ---
 inject: true
 to: "index.js"
-before: "// hygen:new:entry:dictionarry"
+before: "// hygen:new:strategy:dictionary"
 ---
   <%=name%>,
