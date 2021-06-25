@@ -2,7 +2,7 @@
 const sum = require('./strategies/sum')
 
 const strategies = {
-  sum
+  sum,
 }
 
 console.log(strategies.sum.apply(2, 2))
