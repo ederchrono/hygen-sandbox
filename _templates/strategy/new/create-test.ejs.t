@@ -1,6 +1,5 @@
 ---
 to: "./strategies/<%=name%>.spec.js"
-unless_exists: true
 ---
 const <%=name%> = require('./<%=name%>')
 
