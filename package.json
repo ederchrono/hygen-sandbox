@@ -5,11 +5,14 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "test": "jest",
     "new:strategy": "hygen strategy new"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "hygen": "^6.1.0"
+    "@types/jest": "^26.0.23",
+    "hygen": "^6.1.0",
+    "jest": "^27.0.6"
   }
 }
